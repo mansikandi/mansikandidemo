@@ -1,3 +1,4 @@
 # mansikandidemo
-This is my first Git Repositary
-Author - Manali Kandi
+This is my first Git Repositary  
+<br>
+ Author - Manali Kandi
